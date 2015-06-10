@@ -1,2 +1,2 @@
 # facepunch-avatar-switcher
-facepunch avatar randomizer
+this should work on any vbulletin forum with some minor editing
